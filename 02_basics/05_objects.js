@@ -6,6 +6,16 @@ const course =  {
 
 // course.CourseInstructor
 
-const {CourseInstructor} = course
+const {price: instructore } = course
 
-console.log(CourseInstructor);
+console.log(instructore);
+
+// const navbar = () => {
+
+// }
+
+// {
+//     "name": "hitesh",
+//     "courseName": "Js in Hindi",
+//     "price": "free"
+// }
