@@ -27,4 +27,30 @@ function one(){
 
 //one()
 
+// if else
 
+if (true) {
+    const username = "akash"
+
+    if (username === "akash"){
+        const website = " youtube"
+        // console.log(username + website);
+    }
+    // console.log(website);
+    // console.log(username);
+}
+// console.log(username);
+
+// ++++++++++++++++++++++++++++++++++++++ Interesting +++++++++++++++++++++++++++++
+
+function addone(num){
+    return num + 1
+}
+
+addone(5)
+
+const addTwo = function(num) {
+    return num + 2
+}
+
+addTwo(5)
